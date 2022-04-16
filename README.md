@@ -6,7 +6,7 @@
   
 - 🤖 R&D team: Data Engineer, Frontend dev, DevOps.
 
-- 💬 Сommunity relations team: manager, analytic.
+- 💬 Сommunity relations team: Manager, Analytic.
 
 - 👥 1000 community members
 
