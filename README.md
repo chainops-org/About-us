@@ -37,7 +37,7 @@ We are a team of developers and crypto enthusiasts who have come together to bri
 
 - 🏆 30000$ total stake
 
-- 🎬 100+ [YouTube](https://www.youtube.com/c/ChainOps) videos
+- 🎬 100+ [YouTube](https://www.youtube.com/c/ChainOpsik) videos
 
 - 💡 100,000,000 ideas
 
