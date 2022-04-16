@@ -1,5 +1,5 @@
 # ChainOps team <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-We are a team of developers and crypto enthusiasts who have come together to bring web 3 technologies to the masses.
+We are a team of developers and crypto enthusiasts who have come together to bring web 3 technologies to the masses.&nbsp;
 
 <div align="center">
   <img src="https://cryptologos.cc/logos/cosmos-atom-logo.svg?v=022" title="Cosmos" alt="Cosmos" width="40" height="40"/>&nbsp;
@@ -16,8 +16,8 @@ We are a team of developers and crypto enthusiasts who have come together to bri
   &nbsp;
  <img title="NYM" alt="NYM" width="40" height="40" src="https://yt3.ggpht.com/Ur1JUTwvKAKdNKDkYvE2jrSfsBMaSHRUO9ohObGM4qCeEMm6Dp2gxTlSFVH0MIqAqvF8JBQQ1A=s176-c-k-c0x00ffffff-no-rj">
   &nbsp;
-  
 </div>
+&nbsp;
 
 ## ⚡️ About us
 
@@ -29,7 +29,9 @@ We are a team of developers and crypto enthusiasts who have come together to bri
 
 - 💬 Сommunity relations team: Manager, Analytic.
 
-- 👥 1000 community members
+- 🔮 [Block Explorer](https://chainops-explorer-frontend.vercel.app/)
+
+- 👥 1000 [community](https://t.me/ChainOps) members
 
 - ⛓ 10 blockchain nodes
 
@@ -37,7 +39,9 @@ We are a team of developers and crypto enthusiasts who have come together to bri
 
 - 🎬 100+ [YouTube](https://www.youtube.com/c/ChainOps) videos
 
-- 🔗 [Block Explorer](https://chainops-explorer-frontend.vercel.app/)
-
 - 💡 100,000,000 ideas
+
+
+&nbsp;
+## 🔥 Our contributions
 
