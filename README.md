@@ -1,1 +1,24 @@
-# [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Anek+Bangla&size=35&duration=2200&color=AA43F7&center=false&vCenter=true&lines=10+nodes;5+people;1+goal;ChainOps)](https://git.io/typing-svg)
+## ⚡️ About us
+
+
+<img align="right" src="https://cdnb.artstation.com/p/assets/images/images/024/858/699/original/pixel-jeff-divoom.gif?1583771904" width="500"/>
+
+  
+- 🤖 R&D team: Data Engineer, Frontend dev, DevOps.
+
+- 💬 Сommunity relations team: manager, analytic.
+
+- 👥 1000 community members
+
+- ⛓ 10 blockchain nodes
+
+- 🏆 30000$ total stake
+
+- 🎬 100+ YouTube videos
+
+- 💡 100,000,000 ideas
+
+
+
+
+
