@@ -21,8 +21,7 @@ We are a team of developers and crypto enthusiasts who have come together to bri
 
 ## ⚡️ About us
 
-
-<img align="right" src="https://cdnb.artstation.com/p/assets/images/images/024/858/699/original/pixel-jeff-divoom.gif?1583771904" width="500"/>
+<img align="right" src="https://media0.giphy.com/media/SiRhgiRhquSOwgLptJ/giphy.gif?cid=790b76114133feae031e85f9f3d2b63cd66c5615f800ebaa&rid=giphy.gif&ct=g" width="500"/>
 
   
 - 🤖 R&D team: Data Engineer, Frontend dev, DevOps.
