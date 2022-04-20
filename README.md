@@ -1,4 +1,3 @@
-<img align="right" src="https://media0.giphy.com/media/SiRhgiRhquSOwgLptJ/giphy.gif?cid=790b76114133feae031e85f9f3d2b63cd66c5615f800ebaa&rid=giphy.gif&ct=g" width="500"/>
 # ChainOps team <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 We are a team of developers and crypto enthusiasts who have come together to bring web 3 technologies to the masses.&nbsp;
 
