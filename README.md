@@ -1,5 +1,6 @@
 # ChainOps team <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 We are a team of developers and crypto enthusiasts who have come together to bring web 3 technologies to the masses.&nbsp;
+<img align="right" src="https://media0.giphy.com/media/SiRhgiRhquSOwgLptJ/giphy.gif?cid=790b76114133feae031e85f9f3d2b63cd66c5615f800ebaa&rid=giphy.gif&ct=g" width="500"/>
 
 <div align="center">
   <img src="https://cryptologos.cc/logos/cosmos-atom-logo.svg?v=022" title="Cosmos" alt="Cosmos" width="40" height="40"/>&nbsp;
@@ -20,8 +21,8 @@ We are a team of developers and crypto enthusiasts who have come together to bri
 &nbsp;
 
 ## ⚡️ About us
+<img align="right" src="https://cdnb.artstation.com/p/assets/images/images/024/858/699/original/pixel-jeff-divoom.gif?1583771904" width="500"/>
 
-<img align="right" src="https://media0.giphy.com/media/SiRhgiRhquSOwgLptJ/giphy.gif?cid=790b76114133feae031e85f9f3d2b63cd66c5615f800ebaa&rid=giphy.gif&ct=g" width="500"/>
 
   
 - 🤖 R&D team: Data Engineer, Frontend dev, DevOps.
