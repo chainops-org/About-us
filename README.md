@@ -25,7 +25,7 @@ We are a team of developers and crypto enthusiasts who have come together to bri
 
 
   
-- 🤖 R&D team: Data Engineer, Frontend dev, DevOps.
+- 🤖 R&D team: [Data Engineer](https://github.com/motiio), [Frontend dev](https://github.com/spac3unit/), [DevOps](https://github.com/arkhiiipov)
 
 - 💬 Сommunity relations team: Manager, Analytic.
 
