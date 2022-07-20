@@ -45,4 +45,4 @@ We are a team of developers and crypto enthusiasts who have come together to bri
 &nbsp;
 ## 🔥 Our contributions
 - Archway
-  - 📒 Documentation translation: https://chain-ops.gitbook.io/archway-wiki/
+  - 📒 Documentation translation: [SSV](http://localhost:3000/docs/ssv.network/Learn/Introduction/)
