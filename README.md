@@ -45,4 +45,4 @@ We are a team of developers and crypto enthusiasts who have come together to bri
 &nbsp;
 ## 🔥 Our contributions
 - ssv.network
-  - 📒 Documentation translation: [SSV](http://localhost:3000/docs/ssv.network/Learn/Introduction/)
+  - 📒 Documentation translation: [SSV](https://wiki.chainops.org/docs/ssv.network/Learn/Introduction/)
