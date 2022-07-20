@@ -44,5 +44,5 @@ We are a team of developers and crypto enthusiasts who have come together to bri
 
 &nbsp;
 ## 🔥 Our contributions
-- Archway
+- ssv.network
   - 📒 Documentation translation: [SSV](http://localhost:3000/docs/ssv.network/Learn/Introduction/)
